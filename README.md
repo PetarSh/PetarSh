@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PetarShatanovski
+- 👋 Hi, I’m PetarShatanovski
 - 👀 I’m interested in ASP.NET
 - 🌱 I’m currently learning ASP.NET CORE and ASP.NET MVC
 - 💞️ I’m looking to collaborate on ASP.NET CORE
